@@ -1,7 +1,7 @@
 # FitnesWeb
 
 <div align="center">
-  <img src="/api/placeholder/600/200" alt="FitnesWebLogo" />
+  <img src="assets/images/FitnesWebLogo.webp" width="300px alt="FitnesWebLogo" />
   <p><em>Seu guia completo para uma vida mais saudável e ativa</em></p>
 </div>
 
